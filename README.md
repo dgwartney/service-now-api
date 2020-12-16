@@ -12,8 +12,6 @@ Example Python code for manipulating incidents in ServiceNOW
 - set environment variable `SNOW_PWD` to admin password
 - set environment variable `SNOW_INSTANCE` to admin password
 
-
-
 ## Creating an Incident with a Caller Id
 
 ```
